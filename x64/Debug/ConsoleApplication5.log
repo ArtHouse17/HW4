@@ -1,0 +1,8 @@
+﻿  ConsoleApplication5.cpp
+F:\visualka\ConsoleApplication5\ConsoleApplication5.cpp(15,18): warning C4101: m: неиспользованная локальная переменная
+F:\visualka\ConsoleApplication5\ConsoleApplication5.cpp(15,15): warning C4101: n: неиспользованная локальная переменная
+  complex.cpp
+F:\visualka\ConsoleApplication5\complex.cpp(5,9): warning C4101: n: неиспользованная локальная переменная
+  Создание кода...
+F:\visualka\ConsoleApplication5\complex.cpp(26): warning C4715: ChetM: значение возвращается не при всех путях выполнения
+  ConsoleApplication5.vcxproj -> F:\visualka\ConsoleApplication5\x64\Debug\ConsoleApplication5.exe
